@@ -2,7 +2,7 @@
 
 Interview Questions:
 - How to optimize the power use for SoC and CPU ?
-- How to connecte two device using one serial ports ?
+- How to connect two device using one serial ports ?
 - Multithreading in C.
 
 
